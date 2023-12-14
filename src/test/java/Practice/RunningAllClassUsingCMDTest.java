@@ -9,7 +9,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class RunningAllClassUsingCMDTest {
 
-//Pushing From Git
+			//Pushing From Git
 	
 	@Test
 	public void amazonURLTest() {
